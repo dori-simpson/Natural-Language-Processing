@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_meta
+
+# Data files (avoid committing large raw data)
+*.csv
+*.xlsx
+*.zip
+data/raw/
+
+# OS
+.DS_Store
+Thumbs.db
